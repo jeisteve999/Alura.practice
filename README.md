@@ -1,81 +1,91 @@
-📊 Sales & Business Performance Analysis
+# 📊 Sales & Business Performance Analysis
 
-This project presents a professional data analysis of sales, revenue, customer satisfaction, and shipping costs across multiple stores. It is designed to demonstrate analytical skills, business insight, and clear data-driven conclusions, suitable for Upwork clients and professional portfolios.
+> **Professional data analysis project focused on sales performance, customer satisfaction, and operational efficiency.**
+> Designed for portfolios, Upwork proposals, and real-world business use cases.
 
-The analysis was developed using a Jupyter Notebook, focusing on transforming raw data into actionable business insights.
+---
 
-📁 Project Structure
+## 🔍 Project Overview
 
-Copia_de_Challenge_1.ipynb
-Main notebook containing data loading, analysis, visualizations, and conclusions.
+This project delivers a **business-oriented data analysis** of sales revenue, customer ratings, and shipping costs across multiple stores. The goal is to transform raw data into **clear insights that support strategic decision-making**.
 
-🔍 Scope of the Analysis
+The analysis was developed in **Python using Jupyter Notebook**, following a structured and reproducible analytical workflow.
 
-The notebook covers the following key areas:
+---
 
-Data loading and initial exploration
-Understanding dataset structure, data types, and general quality.
+## 📁 Project Structure
 
-Revenue and billing analysis
-Evaluation of financial performance by store.
+```
+Sales_&_Business_Performance_Analysis.ipynb   # Main analysis notebook
+README.md                                     # Project documentation
+```
 
-Sales by product category
-Identification of trends and category-level performance.
+---
 
-Average store rating
-Customer satisfaction analysis based on ratings.
+## 📈 Key Analysis Areas
 
-Best and worst performing products
-Detection of high-impact and underperforming products.
+* **Exploratory Data Analysis (EDA)**
+  Initial inspection of data structure, types, and overall quality.
 
-Average shipping cost per store
-Logistic cost comparison and efficiency assessment.
+* **Revenue & Sales Performance**
+  Financial performance comparison by store.
 
-Business conclusions and insights
-Strategic interpretation of results, highlighting strengths, risks, and improvement opportunities.
+* **Sales by Product Category**
+  Identification of trends and category-level behavior.
 
-🛠️ Tools & Technologies
+* **Customer Satisfaction**
+  Average store ratings and customer experience insights.
 
-Python 3.x
+* **Top & Bottom Performing Products**
+  Detection of high-impact and underperforming products.
 
-Jupyter Notebook
+* **Shipping Cost Analysis**
+  Evaluation of logistics efficiency and average shipping cost per store.
 
-pandas
+* **Business Insights & Conclusions**
+  Strategic interpretation highlighting strengths, risks, and optimization opportunities.
 
-numpy
+---
 
-matplotlib / seaborn (for data visualization)
+## 🛠️ Tools & Technologies
 
-▶️ How to Run the Project
+* Python 3.x
+* Jupyter Notebook
+* pandas
+* numpy
+* matplotlib / seaborn
 
-Open a terminal or command prompt.
+---
 
-Navigate to the project directory.
+## ▶️ How to Run the Project
 
-Run:
-
+```bash
 jupyter notebook
+```
 
-Open Copia_de_Challenge_1.ipynb and execute the cells sequentially.
+Open `Sales_&_Business_Performance_Analysis.ipynb` and run the cells sequentially.
 
-💼 Professional Value
+---
+
+## 💼 Professional Value
 
 This project demonstrates:
 
-Practical data analysis and visualization skills
+* Strong **data analysis and visualization skills**
+* Ability to translate data into **business-driven insights**
+* Clean, structured, and reproducible workflow
+* Focus on KPIs relevant to **decision-makers and stakeholders**
 
-Ability to translate data into business-oriented insights
+The analysis can be easily extended into dashboards, automated reports, or integrated into larger analytics pipelines.
 
-Clear and structured analytical workflow
+---
 
-Focus on metrics that matter for decision-making
+## 📌 Notes
 
-It can be easily extended into dashboards, automated reports, or integrated into larger data pipelines depending on client needs.
+While revenue is a key metric, this project highlights the importance of balancing **financial performance, customer experience, and cost optimization** for sustainable growth.
 
-📌 Notes
+This repository can also serve as a **reusable template** for future professional data analysis projects.
 
-The analysis emphasizes that sustainable business performance depends not only on revenue, but also on customer experience and cost optimization.
+---
 
-This repository can be used as a template for future analytical projects or adapted to specific client requirements.
-
-✍️ Developed as a professional data analysis project.
+✍️ *Developed as a professional data analysis project (portfolio-ready).*
